@@ -12,7 +12,7 @@ Stage 1:
    and put it in the current folder.
    
 Stage 2:                                                                             
-1.Installing and compiling the library in the MatConvNet, Please refer to http://www.vlfeat.org/matconvnet/install/ for more 
+1. Installing and compiling the library in the MatConvNet, Please refer to http://www.vlfeat.org/matconvnet/install/ for more 
   information about installing MatConvNet.
   
-2.demo run setup.m for the demo.
+2. demo run setup.m for the demo.
