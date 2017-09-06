@@ -1,5 +1,5 @@
 # DSDH-HashingCode
-Created by Qi Li (Institute of Automation, Chinse Academy of Sciencesm, email:qli@nlpr.ia.ac.cn) 
+Created by Qi Li (Institute of Automation, Chinse Academy of Sciences, email:qi.li@ia.ac.cn) 
 This is a demo on the CIFAR-10 dataset with the DSDH implementaion. Part of the code is forked from DPSH(https://cs.nju.edu.cn/lwj/).
 
 Stage 1:
