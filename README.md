@@ -9,6 +9,7 @@ Stage 1:
 2. Download the Pretrained CNN model VGG-F 
    from the website(http://www.vlfeat.org/matconvnet/models/imagenet-vgg-f.mat), 
    and put it in the current folder.
+   
 Stage 2:                                                                             
 1.Installing and compiling the library in the MatConvNet, Please refer to http://www.vlfeat.org/matconvnet/install/ for more 
   information about installing MatConvNet.
