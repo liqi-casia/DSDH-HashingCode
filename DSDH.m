@@ -1,5 +1,5 @@
 function [B_dataset,B_test,map] = DSDH(codelens,eta)
-    %% prepare the dataset
+    %% prepare the dataset, if you already have the cifar-10.mat, then just commnet it. 
     data_prepare;
     %% load the pre-trained CNN
     net = load('imagenet-vgg-f.mat') ;
