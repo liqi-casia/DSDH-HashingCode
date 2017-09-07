@@ -29,18 +29,18 @@ for label=0:9
     perm = randperm(N) ;
     index = index(perm);
 
-    data = X(:,:,:,index(1:1000));    
-    labels = L(index(1:1000));
+    data = X(:,:,:,index(1:100));    
+    labels = L(index(1:100));
     test_L = cat(1,test_L,labels) ;
     test_data = cat(4,test_data,data) ;  
 
-    data = X(:,:,:,index(1001:6000));    
-    labels = L(index(1001:6000));
+    data = X(:,:,:,index(101:6000));    
+    labels = L(index(101:6000));
     dataset_L = cat(1,dataset_L,labels) ;
     data_set = cat(4,data_set,data) ;
     
-    data = X(:,:,:,index(1001:6000));    
-    labels = L(index(1001:6000));
+    data = X(:,:,:,index(101:600));    
+    labels = L(index(101:600));
     train_L = cat(1,train_L,labels) ;
     train_data = cat(4,train_data,data) ;    
 end
