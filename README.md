@@ -1,7 +1,7 @@
 # DSDH-HashingCode
-This is the source code for Deep Supervised Discrete Hashing (Qi Li, Zhenan Sun, Ran He and Tieniu Tan, NIPS2017).
-Created by Qi Li (Institute of Automation, Chinse Academy of Sciences, email:qi.li@ia.ac.cn) 
-This is a demo on the CIFAR-10 dataset with the DSDH implementaion. Part of the code is forked from DPSH(https://cs.nju.edu.cn/lwj/).
+This repository is the source code for our paper Deep Supervised Discrete Hashing (https://arxiv.org/pdf/1705.10999.pdf)
+Qi Li, Zhenan Sun, Ran He and Tieniu Tan, NIPS 2017.
+This is a demo on the CIFAR-10 dataset with the DSDH implementaion. Part of the code is modified from DPSH(https://cs.nju.edu.cn/lwj/).
 
 Stage 1:
 1. Download the CIFAR-10 dataset from the 
