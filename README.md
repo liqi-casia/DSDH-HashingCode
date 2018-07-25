@@ -1,5 +1,5 @@
 # DSDH-HashingCode
-This repository is the source code for our paper Deep Supervised Discrete Hashing (https://arxiv.org/pdf/1705.10999.pdf)
+This repository is the source code for our paper Deep Supervised Discrete Hashing (https://papers.nips.cc/paper/6842-deep-supervised-discrete-hashing.pdf)
 Qi Li, Zhenan Sun, Ran He and Tieniu Tan.
 This is a demo on the CIFAR-10 dataset with the DSDH implementaion. Part of the code is modified from DPSH(https://cs.nju.edu.cn/lwj/).
 
